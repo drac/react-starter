@@ -1,11 +1,11 @@
 {
   "name": "react-starter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "React-starter is a starter kit powered by React and Webpack.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --hot",
+    "start": "webpack-dev-server",
     "build": "webpack --config webpack-production.config.js -p"
   },
   "author": "drac",
@@ -22,7 +22,8 @@
     "babel-preset-es2015": "^6.24.0",
     "babel-preset-react": "^6.23.0",
     "css-loader": "^0.28.0",
-    "postcss-loader": "^1.3.3",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.3",
     "style-loader": "^0.16.1",
     "webpack": "^2.3.2",
     "webpack-dev-server": "^2.4.2"

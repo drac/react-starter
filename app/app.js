@@ -1,24 +1,10 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from 'react';
+import Master from './components/Master'
 
-class App extends React.Component {
-  constructor(props){
-    super();
-    this.state = {
-      //initial states here
-    }
-  }
+const App = () => (
+  <div>
+      <Master />
+  </div>
+);
 
-  render(){
-    return (
-      <h1>Hello Cad</h1>
-    )
-  }
-
-}
-
-
-ReactDOM.render(
-  <App/>,
-  document.getElementById('app')
-)
+export default App;
