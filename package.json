@@ -11,15 +11,15 @@
   "author": "drac",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.0",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "axios": "^0.16.1",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
   },
   "devDependencies": {
-    "babel-core": "^6.24.0",
+    "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
-    "babel-preset-es2015": "^6.24.0",
-    "babel-preset-react": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
     "css-loader": "^0.28.0",
     "file-loader": "^0.11.1",
     "less": "^2.7.2",
@@ -27,7 +27,7 @@
     "react-hot-loader": "^3.0.0-beta.6",
     "style-loader": "^0.16.1",
     "url-loader": "^0.5.8",
-    "webpack": "^2.3.2",
+    "webpack": "^2.3.3",
     "webpack-dev-server": "^2.4.2"
   }
 }
