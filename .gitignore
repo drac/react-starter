@@ -2,6 +2,7 @@ node_modules
 .DS_Store
 public/bundle.js
 
+
 # OSX
 #
 .DS_Store
@@ -30,3 +31,4 @@ project.xcworkspace
 #
 node_modules/
 npm-debug.log
+package-lock.json
