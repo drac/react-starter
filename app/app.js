@@ -1,10 +1,13 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import Master from './components/Master'
 
 const App = () => (
   <div>
-      <Master />
+    <Master />
   </div>
-);
+)
 
-export default App;
+ReactDOM.render(
+  <App />, document.getElementById('root')
+);
