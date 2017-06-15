@@ -6,7 +6,7 @@ module.exports = {
 
     entry: [
 
-        './index.js'
+        './app.js'
         // the entry point of our app
     ],
     output: {
