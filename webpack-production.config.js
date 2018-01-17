@@ -62,7 +62,8 @@ module.exports = {
             },
             compress: {
                 screw_ie8: true,
-                warnings: false
+                warnings: false,
+                drop_console: true
             },
             comments: false
         })
