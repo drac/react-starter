@@ -1,3 +1,10 @@
+# This project is ARCHIVED
+## Use [react-starter-v2](https://github.com/drac/react-starter-v2) instead
+
+
+
+
+
 
 ## Getting started
 
